@@ -3,4 +3,4 @@
 | --- | --- |
 | Spring 2019 | [Prof. Dr. Necati Aras](http://www.ie.boun.edu.tr/?q=faculty/necati-aras-0) |
 
-### [GAMS Modeling](/homework 1) `GAMS`
+### [GAMS Modeling](/Homework1) `GAMS`
